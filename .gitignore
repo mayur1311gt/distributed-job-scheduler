@@ -8,6 +8,7 @@ CLAUDE.md
 # Python
 __pycache__/
 venv/
+*.egg-info/
 
 # Local-only source materials (HLD doc, diagram, prompt files) — not part of the repo
 docs/reference/
