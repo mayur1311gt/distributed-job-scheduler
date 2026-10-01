@@ -12,3 +12,6 @@ venv/
 
 # Local-only source materials (HLD doc, diagram, prompt files) — not part of the repo
 docs/reference/
+
+# Local-only interview-prep notes — not part of the repo
+docs/ARCHITECTURE.md
