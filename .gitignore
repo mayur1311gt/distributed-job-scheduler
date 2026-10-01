@@ -1,0 +1,13 @@
+# Claude Code / tool artifacts
+.claude/
+CLAUDE.md
+
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+venv/
+
+# Local-only source materials (HLD doc, diagram, prompt files) — not part of the repo
+docs/reference/
